@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575968351869",
+    "project_id": "sakecbuddy-1022",
+    "storage_bucket": "sakecbuddy-1022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575968351869:android:5a5a87db6e53f1583bc314",
+        "android_client_info": {
+          "package_name": "com.example.sakec_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRuGMdYjAyV225Fu6_tAtBYn963LpWLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
